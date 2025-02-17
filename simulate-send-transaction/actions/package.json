@@ -5,7 +5,7 @@
         "test": "jest"
     },
     "dependencies": {
-        "@tenderly/actions": "^0.2.0",
+        "@tenderly/actions": "^0.2.101",
         "ethers": "^5.7.2"
     },
     "devDependencies": {
